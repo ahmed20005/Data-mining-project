@@ -1,0 +1,9 @@
+```gitignore
+# Logs
+*.log
+
+# Data files (if they are generated/output files)
+data/*.csv
+outputs/*.csv
+outputs/*.png
+```

@@ -1,0 +1,224 @@
+support,itemsets
+0.07741935483870968,frozenset({'stock'})
+0.1870967741935484,frozenset({'technology'})
+0.03870967741935484,frozenset({'retail'})
+0.05161290322580645,frozenset({'government'})
+0.05161290322580645,frozenset({'policy'})
+0.06451612903225806,frozenset({'trade'})
+0.08387096774193549,frozenset({'championship'})
+0.05806451612903226,frozenset({'market'})
+0.07741935483870968,frozenset({'film'})
+0.07096774193548387,frozenset({'music'})
+0.04516129032258064,frozenset({'celebrity'})
+0.8387096774193549,frozenset({'recent'})
+0.14838709677419354,frozenset({'business'})
+0.07741935483870968,frozenset({'company'})
+0.03870967741935484,frozenset({'profit'})
+0.06451612903225806,frozenset({'hardware'})
+0.05806451612903226,frozenset({'digital'})
+0.04516129032258064,frozenset({'platform'})
+0.1870967741935484,frozenset({'entertainment'})
+0.07096774193548387,frozenset({'award'})
+0.06451612903225806,frozenset({'theater'})
+0.06451612903225806,frozenset({'concert'})
+0.07096774193548387,frozenset({'device'})
+0.06451612903225806,frozenset({'startup'})
+0.04516129032258064,frozenset({'software'})
+0.05161290322580645,frozenset({'data'})
+0.05161290322580645,frozenset({'network'})
+0.03870967741935484,frozenset({'innovation'})
+0.03870967741935484,frozenset({'economy'})
+0.16774193548387098,frozenset({'politics'})
+0.06451612903225806,frozenset({'minister'})
+0.04516129032258064,frozenset({'reform'})
+0.16129032258064516,frozenset({'sports'})
+0.06451612903225806,frozenset({'player'})
+0.05161290322580645,frozenset({'season'})
+0.04516129032258064,frozenset({'athlete'})
+0.05806451612903226,frozenset({'diplomacy'})
+0.05806451612903226,frozenset({'election'})
+0.04516129032258064,frozenset({'legislation'})
+0.03225806451612903,frozenset({'actor'})
+0.05161290322580645,frozenset({'tournament'})
+0.07741935483870968,frozenset({'parliament'})
+0.04516129032258064,frozenset({'vote'})
+0.03225806451612903,frozenset({'algorithm'})
+0.05806451612903226,frozenset({'score'})
+0.03870967741935484,frozenset({'match'})
+0.05161290322580645,frozenset({'album'})
+0.03225806451612903,frozenset({'performance'})
+0.04516129032258064,frozenset({'investment'})
+0.06451612903225806,frozenset({'victory'})
+0.07096774193548387,frozenset({'show'})
+0.07096774193548387,"frozenset({'business', 'stock'})"
+0.07096774193548387,"frozenset({'stock', 'recent'})"
+0.07096774193548387,"frozenset({'business', 'stock', 'recent'})"
+0.17419354838709677,"frozenset({'technology', 'recent'})"
+0.03225806451612903,"frozenset({'business', 'retail'})"
+0.03225806451612903,"frozenset({'retail', 'recent'})"
+0.03225806451612903,"frozenset({'business', 'retail', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'government'})"
+0.04516129032258064,"frozenset({'government', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'government', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'policy'})"
+0.04516129032258064,"frozenset({'policy', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'policy', 'recent'})"
+0.05806451612903226,"frozenset({'trade', 'business'})"
+0.05806451612903226,"frozenset({'trade', 'recent'})"
+0.05806451612903226,"frozenset({'trade', 'business', 'recent'})"
+0.07741935483870968,"frozenset({'sports', 'championship'})"
+0.07741935483870968,"frozenset({'championship', 'recent'})"
+0.07741935483870968,"frozenset({'sports', 'championship', 'recent'})"
+0.05161290322580645,"frozenset({'market', 'business'})"
+0.05161290322580645,"frozenset({'market', 'recent'})"
+0.05161290322580645,"frozenset({'market', 'business', 'recent'})"
+0.07096774193548387,"frozenset({'entertainment', 'film'})"
+0.07096774193548387,"frozenset({'film', 'recent'})"
+0.07096774193548387,"frozenset({'entertainment', 'film', 'recent'})"
+0.06451612903225806,"frozenset({'entertainment', 'music'})"
+0.06451612903225806,"frozenset({'music', 'recent'})"
+0.03225806451612903,"frozenset({'music', 'film'})"
+0.06451612903225806,"frozenset({'entertainment', 'music', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'music', 'film'})"
+0.03225806451612903,"frozenset({'music', 'film', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'music', 'film', 'recent'})"
+0.03870967741935484,"frozenset({'entertainment', 'celebrity'})"
+0.03870967741935484,"frozenset({'celebrity', 'recent'})"
+0.03870967741935484,"frozenset({'entertainment', 'celebrity', 'recent'})"
+0.14838709677419354,"frozenset({'business', 'recent'})"
+0.07741935483870968,"frozenset({'business', 'company'})"
+0.07741935483870968,"frozenset({'company', 'recent'})"
+0.03225806451612903,"frozenset({'stock', 'company'})"
+0.07741935483870968,"frozenset({'company', 'business', 'recent'})"
+0.03225806451612903,"frozenset({'business', 'stock', 'company'})"
+0.03225806451612903,"frozenset({'company', 'stock', 'recent'})"
+0.03225806451612903,"frozenset({'company', 'business', 'stock', 'recent'})"
+0.03870967741935484,"frozenset({'profit', 'business'})"
+0.03870967741935484,"frozenset({'profit', 'recent'})"
+0.03870967741935484,"frozenset({'profit', 'business', 'recent'})"
+0.06451612903225806,"frozenset({'hardware', 'technology'})"
+0.06451612903225806,"frozenset({'hardware', 'recent'})"
+0.06451612903225806,"frozenset({'hardware', 'technology', 'recent'})"
+0.05806451612903226,"frozenset({'digital', 'technology'})"
+0.05806451612903226,"frozenset({'digital', 'recent'})"
+0.05806451612903226,"frozenset({'digital', 'technology', 'recent'})"
+0.04516129032258064,"frozenset({'platform', 'technology'})"
+0.04516129032258064,"frozenset({'platform', 'recent'})"
+0.03225806451612903,"frozenset({'platform', 'device'})"
+0.04516129032258064,"frozenset({'platform', 'technology', 'recent'})"
+0.03225806451612903,"frozenset({'platform', 'technology', 'device'})"
+0.03225806451612903,"frozenset({'platform', 'recent', 'device'})"
+0.03225806451612903,"frozenset({'platform', 'recent', 'technology', 'device'})"
+0.1870967741935484,"frozenset({'entertainment', 'recent'})"
+0.07096774193548387,"frozenset({'entertainment', 'award'})"
+0.07096774193548387,"frozenset({'award', 'recent'})"
+0.03870967741935484,"frozenset({'award', 'film'})"
+0.07096774193548387,"frozenset({'entertainment', 'award', 'recent'})"
+0.03870967741935484,"frozenset({'entertainment', 'award', 'film'})"
+0.03870967741935484,"frozenset({'award', 'film', 'recent'})"
+0.03870967741935484,"frozenset({'entertainment', 'award', 'film', 'recent'})"
+0.06451612903225806,"frozenset({'entertainment', 'theater'})"
+0.06451612903225806,"frozenset({'theater', 'recent'})"
+0.03225806451612903,"frozenset({'theater', 'award'})"
+0.06451612903225806,"frozenset({'entertainment', 'theater', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'theater', 'award'})"
+0.03225806451612903,"frozenset({'theater', 'award', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'theater', 'award', 'recent'})"
+0.06451612903225806,"frozenset({'entertainment', 'concert'})"
+0.06451612903225806,"frozenset({'concert', 'recent'})"
+0.06451612903225806,"frozenset({'entertainment', 'concert', 'recent'})"
+0.07096774193548387,"frozenset({'technology', 'device'})"
+0.07096774193548387,"frozenset({'recent', 'device'})"
+0.07096774193548387,"frozenset({'recent', 'technology', 'device'})"
+0.06451612903225806,"frozenset({'startup', 'technology'})"
+0.06451612903225806,"frozenset({'startup', 'recent'})"
+0.06451612903225806,"frozenset({'startup', 'technology', 'recent'})"
+0.04516129032258064,"frozenset({'technology', 'software'})"
+0.04516129032258064,"frozenset({'software', 'recent'})"
+0.04516129032258064,"frozenset({'technology', 'software', 'recent'})"
+0.05161290322580645,"frozenset({'technology', 'data'})"
+0.05161290322580645,"frozenset({'data', 'recent'})"
+0.05161290322580645,"frozenset({'data', 'technology', 'recent'})"
+0.05161290322580645,"frozenset({'technology', 'network'})"
+0.05161290322580645,"frozenset({'network', 'recent'})"
+0.05161290322580645,"frozenset({'technology', 'network', 'recent'})"
+0.03870967741935484,"frozenset({'technology', 'innovation'})"
+0.03870967741935484,"frozenset({'innovation', 'recent'})"
+0.03870967741935484,"frozenset({'technology', 'innovation', 'recent'})"
+0.03870967741935484,"frozenset({'business', 'economy'})"
+0.03870967741935484,"frozenset({'economy', 'recent'})"
+0.03870967741935484,"frozenset({'business', 'economy', 'recent'})"
+0.16774193548387098,"frozenset({'politics', 'recent'})"
+0.06451612903225806,"frozenset({'politics', 'minister'})"
+0.06451612903225806,"frozenset({'minister', 'recent'})"
+0.06451612903225806,"frozenset({'politics', 'minister', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'reform'})"
+0.04516129032258064,"frozenset({'reform', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'reform', 'recent'})"
+0.16129032258064516,"frozenset({'sports', 'recent'})"
+0.06451612903225806,"frozenset({'player', 'sports'})"
+0.06451612903225806,"frozenset({'player', 'recent'})"
+0.06451612903225806,"frozenset({'player', 'sports', 'recent'})"
+0.05161290322580645,"frozenset({'sports', 'season'})"
+0.05161290322580645,"frozenset({'recent', 'season'})"
+0.05161290322580645,"frozenset({'sports', 'recent', 'season'})"
+0.04516129032258064,"frozenset({'sports', 'athlete'})"
+0.04516129032258064,"frozenset({'athlete', 'recent'})"
+0.04516129032258064,"frozenset({'sports', 'athlete', 'recent'})"
+0.05806451612903226,"frozenset({'diplomacy', 'politics'})"
+0.05806451612903226,"frozenset({'diplomacy', 'recent'})"
+0.03225806451612903,"frozenset({'parliament', 'diplomacy'})"
+0.05806451612903226,"frozenset({'politics', 'diplomacy', 'recent'})"
+0.03225806451612903,"frozenset({'parliament', 'diplomacy', 'politics'})"
+0.03225806451612903,"frozenset({'parliament', 'diplomacy', 'recent'})"
+0.03225806451612903,"frozenset({'parliament', 'politics', 'diplomacy', 'recent'})"
+0.05806451612903226,"frozenset({'politics', 'election'})"
+0.05806451612903226,"frozenset({'election', 'recent'})"
+0.05806451612903226,"frozenset({'politics', 'election', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'legislation'})"
+0.04516129032258064,"frozenset({'legislation', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'legislation', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'actor'})"
+0.03225806451612903,"frozenset({'actor', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'actor', 'recent'})"
+0.05161290322580645,"frozenset({'sports', 'tournament'})"
+0.05161290322580645,"frozenset({'tournament', 'recent'})"
+0.05161290322580645,"frozenset({'sports', 'tournament', 'recent'})"
+0.07741935483870968,"frozenset({'parliament', 'politics'})"
+0.07741935483870968,"frozenset({'parliament', 'recent'})"
+0.07741935483870968,"frozenset({'parliament', 'politics', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'vote'})"
+0.04516129032258064,"frozenset({'vote', 'recent'})"
+0.04516129032258064,"frozenset({'politics', 'vote', 'recent'})"
+0.03225806451612903,"frozenset({'algorithm', 'technology'})"
+0.03225806451612903,"frozenset({'algorithm', 'recent'})"
+0.03225806451612903,"frozenset({'algorithm', 'technology', 'recent'})"
+0.05806451612903226,"frozenset({'sports', 'score'})"
+0.05806451612903226,"frozenset({'score', 'recent'})"
+0.05806451612903226,"frozenset({'sports', 'score', 'recent'})"
+0.03870967741935484,"frozenset({'match', 'sports'})"
+0.03870967741935484,"frozenset({'match', 'recent'})"
+0.03870967741935484,"frozenset({'match', 'sports', 'recent'})"
+0.05161290322580645,"frozenset({'entertainment', 'album'})"
+0.05161290322580645,"frozenset({'album', 'recent'})"
+0.03225806451612903,"frozenset({'theater', 'album'})"
+0.05161290322580645,"frozenset({'entertainment', 'album', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'theater', 'album'})"
+0.03225806451612903,"frozenset({'theater', 'album', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'theater', 'album', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'performance'})"
+0.03225806451612903,"frozenset({'performance', 'recent'})"
+0.03225806451612903,"frozenset({'entertainment', 'performance', 'recent'})"
+0.04516129032258064,"frozenset({'investment', 'business'})"
+0.04516129032258064,"frozenset({'investment', 'recent'})"
+0.04516129032258064,"frozenset({'investment', 'business', 'recent'})"
+0.06451612903225806,"frozenset({'sports', 'victory'})"
+0.06451612903225806,"frozenset({'victory', 'recent'})"
+0.03225806451612903,"frozenset({'championship', 'victory'})"
+0.06451612903225806,"frozenset({'sports', 'victory', 'recent'})"
+0.03225806451612903,"frozenset({'sports', 'championship', 'victory'})"
+0.03225806451612903,"frozenset({'victory', 'championship', 'recent'})"
+0.03225806451612903,"frozenset({'sports', 'victory', 'championship', 'recent'})"
+0.07096774193548387,"frozenset({'entertainment', 'show'})"
+0.07096774193548387,"frozenset({'show', 'recent'})"
+0.07096774193548387,"frozenset({'entertainment', 'show', 'recent'})"
